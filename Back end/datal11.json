@@ -1,0 +1,8 @@
+[
+  { "fname": "islam", "lname": "mohamed" },
+  { "fname": "khalid", "lname": "abdo" },
+  { "fname": "bavely", "lname": "ekramy" },
+  { "fname": "bavely", "lname": "ekramy", "city": "alex1" },
+  { "fname": "bavely", "lname": "ekramy", "city": "alex", "age": 22 },
+  { "id": 10, "fname": "bavely", "lname": "ekramy", "city": "alex", "age": 22 }
+]
